@@ -83,7 +83,7 @@
 
 ## 📄 Research Papers
 
-> See [`research-papers/`](./research-papers/) for full summaries.
+> See [`research-papers/`](./research-papers/) for full summaries and detailed paper reviews.
 
 ### 🏛️ Landmark Papers (Must-Read)
 | Year | Paper | Topic |
