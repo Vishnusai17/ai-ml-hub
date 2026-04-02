@@ -21,6 +21,7 @@
 | [🧠 Machine Learning](./machine-learning/) | Fundamentals, algorithms, projects, resources |
 | [🔥 Deep Learning](./deep-learning/) | Neural networks, CNNs, RNNs, Transformers |
 | [📄 Research Papers](./research-papers/) | Curated landmark + emerging papers with summaries |
+| [🤖 Agentic AI](./agentic-ai/) | AI Agents, tool use, multi-agent systems, frameworks |
 | [🛠️ Tools & Setup](./tools/) | Environment setup, libraries, productivity tips |
 | [🗺️ Roadmaps](./roadmaps/) | Structured learning paths by goal/role |
 
