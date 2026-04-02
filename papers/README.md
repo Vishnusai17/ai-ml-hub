@@ -16,6 +16,7 @@ One paper/topic added every day. Each entry covers a core concept in Deep Learni
 | Day 6 | [2026-03-13-diffusion-models.md](./2026-03-13-diffusion-models.md) | Diffusion Models — Stable Diffusion & DALL-E |
 | Day 7 | [2026-03-14-large-language-models.md](./2026-03-14-large-language-models.md) | LLMs — GPT, LLaMA and the Rise of GenAI |
 | Day 8 | [2026-03-26-retrieval-augmented-generation.md](./2026-03-26-retrieval-augmented-generation.md) | RAG — Grounding LLMs with External Knowledge |
+| Day 9 | [2026-04-02-rlhf-reinforcement-learning-from-human-feedback.md](./2026-04-02-rlhf-reinforcement-learning-from-human-feedback.md) | RLHF — Aligning LLMs with Human Preferences |
 
 ---
 
